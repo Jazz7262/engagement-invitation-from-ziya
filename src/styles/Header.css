@@ -1,0 +1,75 @@
+#header {
+    color: #660000;
+    text-align: justify;
+    position: relative;
+    z-index: 1;
+    padding: 7%;
+    background-image: url("../../public/assets/images/trianglify-lowres.png");
+    background-size: 100% 100%;
+}
+
+#header .poster-wrapper {
+    padding: 7%;
+    background-image: url("../../public/assets/images/bg-1.jpg");
+    background-size: 100% 100%;
+}
+
+#header .poster {
+    /* border-radius: 50%; */
+    width: 40%;
+    margin-bottom: 7%;
+}
+
+#header .text-wrapper {
+    padding: 7%;
+    background: rgb(77, 1, 53);
+    background: linear-gradient(
+        180deg,
+        rgba(77, 1, 53, 1) 0%,
+        rgba(255, 0, 129, 1) 100%
+    );
+    text-shadow: 2px 2px 5px #000, 2px 2px 5px #000;
+}
+
+#header h3,
+#header h4 {
+    line-height: 1.5;
+}
+
+#header h4.ayat {
+    margin: 5% 0px;
+}
+
+/* Tablet Wide Screens */
+@media (max-width: 992px) {
+}
+
+/* New Mobile Phones Wide Screens */
+@media (max-width: 428px) {
+    #header {
+        padding: 17% 10% 10%;
+    }
+    #header .poster-wrapper {
+        padding: 17% 10%;
+    }
+    #header .poster {
+        width: 50%;
+        margin-bottom: 5%;
+    }
+    #header .text-wrapper {
+        padding: 10% 10%;
+    }
+    #header h3 {
+        font-size: 1rem;
+    }
+    #header h4 {
+        font-size: 12px;
+    }
+    #header h4.ayat {
+        margin: 7% 0px;
+    }
+}
+
+/* Old Mobile Phones Wide Screens */
+@media (max-width: 360px) {
+}
