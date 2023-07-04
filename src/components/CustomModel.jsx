@@ -80,7 +80,7 @@ function CustomModel1() {
                         />
                         <h4 className="from">From:</h4>
                         <h4 className="invitor-name mb-4">
-                            Mr. & Mrs. T. Hussain Basha
+                            Mr. & Mrs. T. Basha
                         </h4>
                         <button
                             className="btn btn-primary open-button"

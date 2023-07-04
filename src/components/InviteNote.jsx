@@ -6,9 +6,12 @@ function InviteNote() {
         <section id="invite-note">
             <div className="invite-note-wrapper">
                 <h5>An Invitation from:</h5>
-                <h2>Mr. & Mrs. T. Hussain Basha</h2>
+                <h2>Mr. & Mrs. T. Basha</h2>
 
-                {/* <h5 className="address mb-3">Retd. Teacher and Pesh Imam</h5> */}
+                <h5 className="address mb-3">
+                    Proprietor: Mohammed Ali Jewellers,
+                    <br /> Shroff Bazaar, Adoni.
+                </h5>
                 <h5 className="address mb-3">
                     H.No.: 1/541/120, Near Vivekananda Junior College,
                     <br /> NGO's Colony,
