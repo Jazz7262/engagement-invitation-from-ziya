@@ -68,7 +68,7 @@ function Couple() {
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
-                                            src="../assets/images/groom1.jpeg"
+                                            src="../assets/images/groom2.jpeg"
                                             alt="couple_img"
                                         />
                                     </div>
@@ -77,7 +77,7 @@ function Couple() {
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
-                                            src="../assets/images/groom2.jpeg"
+                                            src="../assets/images/groom1.jpeg"
                                             alt="couple_img"
                                         />
                                     </div>
@@ -139,6 +139,20 @@ function Couple() {
                                 S/O Janab <strong>B. Khadar Sahab,</strong>{" "}
                             </p>
                             <p className="mt-1 mt-lg-2">RTC Employee, Adoni.</p>
+
+                            <p className="mt-1 mt-lg-2">
+                                Paternal S/O Janab{" "}
+                                <strong>B. Nabi Sahab(Late),</strong>{" "}
+                            </p>
+                            <p className="mt-1 mt-lg-2">RTC Employee, Adoni.</p>
+
+                            <p className="mt-1 mt-lg-2">
+                                Maternal S/O Janab{" "}
+                                <strong>K. Laalu Sahab(Late),</strong>{" "}
+                            </p>
+                            <p className="mt-1 mt-lg-2">
+                                Revenue Department, Pattikonda.
+                            </p>
                             {/* <p className="mt-1 mt-lg-2">
                                 Retd. Head Master,
                                 <br /> Gopa Gowda Nagar,
