@@ -1,5 +1,21 @@
 /* Big Screens */
+.toast-message {
+    position: fixed;
+    bottom: 10%;
+    left: 30%;
+    background-color: #343a40;
+    width: 40%;
+    padding: 4px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
 
+
+.toast-message span{
+    font-size: 0.5rem;
+    color: white;
+}
 /* Tablet Wide Screens */
 @media (max-width: 992px) {
 }

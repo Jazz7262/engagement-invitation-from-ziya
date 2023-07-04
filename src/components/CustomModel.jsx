@@ -21,7 +21,6 @@ function CustomModel1() {
                 document.getElementById("audio").play();
                 startScroll();
             }, 1000);
-
         }, 1500);
     }
 
@@ -42,10 +41,12 @@ function CustomModel1() {
                         },
                         5000,
                         function () {
+                            $(".toast-message").fadeOut();
                             document.querySelector(
                                 "html"
                             ).style.scrollBehavior = "smooth";
 
+                            $("html, body").stop();
                             $("html, body").off("click");
                         }
                     );
@@ -57,6 +58,7 @@ function CustomModel1() {
         setTimeout(function () {
             $("html, body").on("click", function (event) {
                 $("html, body").stop();
+                $(".toast-message").fadeOut();
                 $("html, body").off("click");
                 document.querySelector("html").style.scrollBehavior = "smooth";
             });

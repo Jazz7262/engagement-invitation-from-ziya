@@ -86,6 +86,9 @@ function App() {
             <Logo />
             <Audio />
             <BackToTopBtn />
+            <div className="toast-message">
+                <span>Tap on screen to stop auto scroll</span>
+            </div>
         </>
     );
 }

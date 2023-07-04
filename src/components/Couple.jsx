@@ -127,7 +127,7 @@ function Couple() {
                                 B. Shaikhsha Vali <sub>MCA,</sub>
                             </h3>
                             <p className="mt-2 mt-lg-3">
-                                Propritor: <strong>SSV PAints,</strong>{" "}
+                                Proprietor: <strong>SSV PAints,</strong>{" "}
                                 Asianpaints Authorised Dealer
                             </p>
                             <p className="mt-1 mt-lg-2"> at Alur.</p>
@@ -135,11 +135,6 @@ function Couple() {
                                 S/O Janab{" "}
                                 <strong>Shabeer Ahmed Sahab(Late)</strong>
                             </p> */}
-                            <p className="mt-1 mt-lg-2">
-                                S/O Janab <strong>B. Khadar Sahab,</strong>{" "}
-                            </p>
-                            <p className="mt-1 mt-lg-2">RTC Employee, Adoni.</p>
-
                             <p className="mt-1 mt-lg-2">
                                 Paternal S/O Janab{" "}
                                 <strong>B. Nabi Sahab(Late),</strong>{" "}
@@ -153,6 +148,12 @@ function Couple() {
                             <p className="mt-1 mt-lg-2">
                                 Revenue Department, Pattikonda.
                             </p>
+
+                            <p className="mt-1 mt-lg-2">
+                                S/O Janab <strong>B. Khadar Sahab,</strong>{" "}
+                            </p>
+                            <p className="mt-1 mt-lg-2">RTC Employee, Adoni.</p>
+
                             {/* <p className="mt-1 mt-lg-2">
                                 Retd. Head Master,
                                 <br /> Gopa Gowda Nagar,
