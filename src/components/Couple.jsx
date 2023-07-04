@@ -136,13 +136,13 @@ function Couple() {
                                 <strong>Shabeer Ahmed Sahab(Late)</strong>
                             </p> */}
                             <p className="mt-1 mt-lg-2">
-                                Paternal S/O Janab{" "}
+                                Paternal Grand S/O Janab{" "}
                                 <strong>B. Nabi Sahab(Late),</strong>{" "}
                             </p>
                             <p className="mt-1 mt-lg-2">RTC Employee, Adoni.</p>
 
                             <p className="mt-1 mt-lg-2">
-                                Maternal S/O Janab{" "}
+                                Maternal Grand S/O Janab{" "}
                                 <strong>K. Laalu Sahab(Late),</strong>{" "}
                             </p>
                             <p className="mt-1 mt-lg-2">
