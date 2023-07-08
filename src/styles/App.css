@@ -11,9 +11,8 @@
     justify-content: center;
 }
 
-
-.toast-message span{
-    font-size: 0.5rem;
+.toast-message span {
+    font-size: 0.75rem;
     color: white;
 }
 /* Tablet Wide Screens */
@@ -22,6 +21,9 @@
 
 /* New Mobile Phones Wide Screens */
 @media (max-width: 428px) {
+    .toast-message span {
+        font-size: 0.5rem;
+    }
 }
 
 /* Old Mobile Phones Wide Screens */
