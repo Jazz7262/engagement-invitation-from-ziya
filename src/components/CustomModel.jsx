@@ -19,6 +19,8 @@ function CustomModel1() {
                 $(".animated-logo").css("z-index", "2");
                 $("body").removeAttr("style");
                 document.getElementById("audio").play();
+                document.getElementById("timer-video").play();
+
                 startScroll();
             }, 1000);
         }, 1500);

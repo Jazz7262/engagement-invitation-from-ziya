@@ -34,6 +34,7 @@ function CountDown() {
                     <div className="row">
                         <div className="col-lg-5 bg-container">
                             <video
+                                id="timer-video"
                                 className="bg-video"
                                 src="assets/videos/clock-bg.mp4"
                                 autoPlay
