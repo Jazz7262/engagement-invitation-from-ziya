@@ -124,7 +124,7 @@ function Couple() {
                         </div>
                         <div className="info groom-info">
                             <h3>
-                                B. Shaikhsha Vali <sub>MCA,</sub>
+                                B. Shaiksha Vali <sub>MCA,</sub>
                             </h3>
                             <p className="mt-2 mt-lg-3">
                                 Proprietor: <strong>SSV PAints,</strong>{" "}
